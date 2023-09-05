@@ -5,6 +5,7 @@
 1) Log in to the system as root.
 
 ![](https://i.imgur.com/S6BPlKA.png)
+
 ---
 2) Use the passwd command to change the password. Examine the basic
 parameters of the command. What system file does it change *?
@@ -29,6 +30,7 @@ When you change a user's password using the "passwd" command, it updates the */e
 >**WARNING**:Keep in mind that you typically need superuser (root) privileges to change the password for other users or to use certain options like locking or expiring passwords.
 
 ![](https://i.imgur.com/uYcr8Xn.png)
+
 ---
 3) Determine the users registered in the system, as well as what commands they execute. What additional information can be gleaned from the command
 execution?
@@ -44,6 +46,7 @@ List of Logged-In Users and Their Commands (w, who, ps):
 - ps aux: The ps command with the aux options displays a list of all running processes, including the user who initiated each process and the command being executed.
 
 These commands will show you a snapshot of the current user activity on the system.
+
 ![](https://i.imgur.com/3VGnwOI.png)
 
 ---
@@ -60,6 +63,7 @@ The main commands for working with Linux accounts are **useradd**, **userdel**, 
 ---
 5) Become familiar with the Linux help system and the man and info commands.Get help on the previously discussed commands, define and describe any two keys for these commands. Give examples.
 man - an interface to the on-line reference manuals
+
 ![](https://i.imgur.com/LLO79S8.png)
 
 Two commonly used keys within the man command are:
@@ -76,6 +80,7 @@ Quitting and Exiting:
     - q: Quit the man viewer and return to the terminal.
 
 **info** - read Info documents
+
 ![](https://i.imgur.com/nKzNeXc.png)
 
 Two commonly used keys within the info command are:
@@ -95,6 +100,7 @@ Quitting and Exiting:
 
 ---
 6) Explore the more and less commands using the help system. View the contents of files .bash* using commands.
+
 ![](https://i.imgur.com/56fUWHf.png)
 
 You can use the following keys for navigation:
