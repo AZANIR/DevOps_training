@@ -1,7 +1,6 @@
-## task 1
+## Task1.Part1
 
-### Task1.Part1
----
+
 1) Log in to the system as root.
 
 ![](https://i.imgur.com/S6BPlKA.png)
